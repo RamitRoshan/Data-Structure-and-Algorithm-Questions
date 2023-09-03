@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithm-Questions
-Contains Implementation of selected Data Structures and Algorithms Questions and answer which are important for the interview preparations.
+This repository contains the implmentation of some of the most basic and important data structures and algorithms implemented in Java. A quick sneak peek into this repo may help you in Revision and an interview!
